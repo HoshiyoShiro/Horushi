@@ -61,7 +61,8 @@ a:focus{
 	text-decoration: none;
 }
 #home{
-	background: url(../img/bg1.jpg);
+	background: black;
+	background: url(../img/anime2.jpg);
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -228,7 +229,7 @@ a.down-btn span.fa.fa-angle-down {
 }
 
 #overview-video {
-	background: url(../img/bg2.jpg);
+	background: url(../img/anime1.png);
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -484,7 +485,7 @@ ul.clients li{
 }
 
 #contact{
-	background: #282f35;
+	background: #000000;
 	padding: 100px 0;
 	color: #ffffff;
 }
@@ -587,7 +588,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 
 nav#footer{
-	background: #282f35;
+	background: #000000;
 	padding: 40px 0;
 	color: #ffffff;
 	border-bottom: 5px solid #c59a6d;
